@@ -77,7 +77,7 @@ public class Panel implements Macro {
 		
 		if (map.get("Title") != null) {
 			sb.append("<div class=\"cb-panel-heading\">");
-			sb.append("<h3 class=\"cb-panel-title\">").append(map.get("Title")).append("</h3>");
+			sb.append("<div class=\"cb-panel-title\">").append(map.get("Title")).append("</div>");
 			sb.append("</div>");
 		
 			sb.append("<div class=\"cb-panel-body\">");
