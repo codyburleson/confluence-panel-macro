@@ -29,7 +29,8 @@ at [codyburleson.com](https://codyburleson.com)._
 If you don't care to build from the source code yourself, you can download the latest version to install into your 
 Atlassian Confluence wiki.
 
-**[Download panelMacro-1.0.0-SNAPSHOT.jar](dist/panelMacro-1.0.0-SNAPSHOT.jar)**
+**[Download panelMacro-1.0.0-SNAPSHOT.jar](https://github.com/codyburleson/confluence-panel-macro/blob/master/dist/panelMacro-1.0.0-SNAPSHOT.jar?raw=true)**
+
 
 ## Installation
 
